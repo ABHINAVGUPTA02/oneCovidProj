@@ -7,4 +7,4 @@ Cowin website developed by the goverment of India. The app's database is maintai
 
 The app was developed by Abhinav Gupta, individually with its only version(1.0.0) released in May 2022.
 
-There is a demo video, apk of the with screenshots attached in the given drive link -  https://drive.google.com/drive/folders/1VlChViAw-iVBKcKsz271FAbscaUvuoh2?usp=share_link
+There is a demo video and apk with screenshots of the app attached in the given drive link -  https://drive.google.com/drive/folders/1VlChViAw-iVBKcKsz271FAbscaUvuoh2?usp=share_link
